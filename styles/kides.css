@@ -133,7 +133,7 @@ font-size: 1.25rem;
  /*ours story related style */
 .container {
     display: flex;
-    margin: 80px 140px 80px 140px;
+    margin: 10px 140px 10px 140px;
     gap: 18px;
 }
 .child1{
@@ -426,6 +426,7 @@ padding-bottom:8px;
     .container{
     flex-direction: column;
     margin: 10px;
+    margin-bottom: 80px;
     }
     .child2{
         width: 358px;
